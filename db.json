@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 7,
+      "firstName": "rahul s",
+      "lastName": "chander",
+      "email": "rh@yahoo.com",
+      "mobile": "7654568972",
+      "salary": "$43"
+    },
+    {
+      "id": 8,
+      "firstName": "dfsdf",
+      "lastName": "dfsdfsdf",
+      "email": "333@@22",
+      "mobile": "50000",
+      "salary": "22"
+    },
+    {
+      "id": 9,
+      "firstName": "reuben",
+      "lastName": "charles",
+      "email": "charles@222",
+      "mobile": "222222",
+      "salary": "ee"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
